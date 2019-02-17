@@ -1,0 +1,2 @@
+class BowlingException < Exception
+end
